@@ -1,0 +1,24 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(59, 57, 57);
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copy_write_footer{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    width: 100%;
+    background-color: rgb(112, 111, 111); 
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 255, 191);
+}
